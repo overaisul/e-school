@@ -6,3 +6,60 @@
     color: white;
     border-radius: 50px;
 }
+.container{
+    margin-bottom: 40px;
+}
+.gray{
+    color: #6C6B6B;
+}
+.org{
+    color: #FD511A;
+}
+.blue{
+    color: #21B573;
+}
+.ha{
+    background-color: #F0FFF0;
+}
+.txt{
+    margin-top: 10px;
+    color: #413960;
+}
+.small{
+    color: #585859;
+}
+.card-item{
+    background-color: #F8FFFB;
+    border: none;
+    height: 270px;
+    width: 270px;
+    padding-top: 20px;
+    margin-left: 30px;
+}
+.card-group{
+    width: 1200px;
+    height: 600px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.card img{
+    padding: 10px 10px 20px 20px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.some{
+    width: 580px;
+    height: 90px;
+}
+.okay{
+    background-color: #282531;
+}
+.white{
+    margin-top: 40px;
+    color: white;
+}
